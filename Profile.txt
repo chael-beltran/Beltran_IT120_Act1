@@ -3,3 +3,7 @@ MiddleName: Pellecer
 LastName: Beltran
 Age: 20
 BirthDate: June 26, 2005
+BirthPalce: Magallanes Agusan del Norte
+Relegion: Roman Catholic
+Fathers Name: Bernie D. Beltran
+Mothers Name: Narcie G. Pellecer
